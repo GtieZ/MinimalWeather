@@ -1,2 +1,4 @@
 # MinimalWeather
-This is a testing wheather app
+This is a test wheather app
+
+(geolocation is required)
